@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/CodeByRachit/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+## String
+|  |
+| ------- |
+| [1417-reformat-the-string](https://github.com/CodeByRachit/Leetcode/tree/master/1417-reformat-the-string) |
 <!---LeetCode Topics End-->
