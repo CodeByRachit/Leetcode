@@ -15,17 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CodeByRachit/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/CodeByRachit/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodeByRachit/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1417-reformat-the-string](https://github.com/CodeByRachit/Leetcode/tree/master/1417-reformat-the-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/CodeByRachit/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CodeByRachit/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
