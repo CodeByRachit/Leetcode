@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeByRachit/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/CodeByRachit/Leetcode/tree/master/0217-contains-duplicate) |
+| [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/CodeByRachit/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeByRachit/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/CodeByRachit/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/CodeByRachit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CodeByRachit/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/CodeByRachit/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeByRachit/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
