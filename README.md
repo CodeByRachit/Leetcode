@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeByRachit/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/CodeByRachit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/CodeByRachit/Leetcode/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/CodeByRachit/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodeByRachit/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/CodeByRachit/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/CodeByRachit/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/CodeByRachit/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/CodeByRachit/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
