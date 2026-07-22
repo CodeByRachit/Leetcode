@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeByRachit/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/CodeByRachit/Leetcode/tree/master/3620-network-recovery-pathways) |
