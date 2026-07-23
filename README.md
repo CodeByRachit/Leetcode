@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CodeByRachit/Leetcode/tree/master/0048-rotate-image) |
 | [3312-sorted-gcd-pair-queries](https://github.com/CodeByRachit/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/CodeByRachit/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/CodeByRachit/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/CodeByRachit/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/CodeByRachit/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/CodeByRachit/Leetcode/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/CodeByRachit/Leetcode/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/CodeByRachit/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CodeByRachit/Leetcode/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/CodeByRachit/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/CodeByRachit/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CodeByRachit/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
