@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CodeByRachit/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CodeByRachit/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CodeByRachit/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeByRachit/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CodeByRachit/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/CodeByRachit/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CodeByRachit/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
